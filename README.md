@@ -1,4 +1,11 @@
 # AI Site Clone
+
+Some Screenshots of the projects:
+![Screenshot (267)](https://github.com/Avishek0001/AI-Site-Clone-using-React/assets/92811606/19629a1d-419e-40de-af23-5c2a3e702a52)
+
+![Screenshot (268)](https://github.com/Avishek0001/AI-Site-Clone-using-React/assets/92811606/191977fb-df2c-43ef-bdd4-3b5b8790f59e)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
