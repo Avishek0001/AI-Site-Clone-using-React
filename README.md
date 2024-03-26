@@ -1,5 +1,9 @@
 # AI Site Clone
 
+This is a fully responsive Frontend project built using React + Vite . The project is an AI website that will answer all your doubts and needs accordingly. 
+I have used free Google Gemini API to get the AI part.
+
+
 Some Screenshots of the projects:
 ![Screenshot (267)](https://github.com/Avishek0001/AI-Site-Clone-using-React/assets/92811606/19629a1d-419e-40de-af23-5c2a3e702a52)
 
@@ -7,6 +11,8 @@ Some Screenshots of the projects:
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+After Cloning the Github repository, You can install **Vite** by using this command.
+**npm npm create vite@latest**
 
 Currently, two official plugins are available:
 
