@@ -12,7 +12,8 @@ Some Screenshots of the projects:
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 After Cloning the Github repository, You can install **Vite** by using this command.
-**npm npm create vite@latest**
+
+** npm create vite@latest**
 
 Currently, two official plugins are available:
 
